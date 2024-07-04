@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://civictechtogether.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/toolkit/',
@@ -19,7 +19,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'civictechtogether', // Usually your GitHub org/user name.
   projectName: 'toolkit', // Usually your repo name.
-  deploymentBranch: 'main', // INTIALIZING on main as a test build
+  deploymentBranch: 'gh-pages', // updating to gh-pages
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
