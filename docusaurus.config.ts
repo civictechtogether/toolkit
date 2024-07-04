@@ -19,7 +19,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'civictechtogether', // Usually your GitHub org/user name.
   projectName: 'toolkit', // Usually your repo name.
-
+  deploymentBranch: 'main', // INTIALIZING on main as a test build
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
