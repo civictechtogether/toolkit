@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Civic Tech Resources Blog</title>
+        <link>https://civictechtogether.github.io/toolkit/blog</link>
+        <description>Civic Tech Resources Blog</description>
+        <lastBuildDate>Sun, 30 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Greetings!]]></title>
+            <link>https://civictechtogether.github.io/toolkit/blog/greetings</link>
+            <guid>https://civictechtogether.github.io/toolkit/blog/greetings</guid>
+            <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Congratulations, you have made your first post!]]></description>
+            <content:encoded><![CDATA[<p>Congratulations, you have made your first post!</p>
+<p>Feel free to play around and edit this post as much as you like.</p>]]></content:encoded>
+            <category>Hello</category>
+        </item>
+    </channel>
+</rss>
